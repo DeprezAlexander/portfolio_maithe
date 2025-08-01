@@ -7,13 +7,14 @@
         <img src="/1-2.jpg" alt="Portfolio image 1-2" />
       </div>
       <div class="col-span-1 flex flex-col gap-4 justify-end">
-        <span class="font-black text-3xl">Encyclopedia Vulgaris</span>
-        <span class="text-gray-700 w-10/12">
-          Een verzameling van 406 random geselecteerde beelden samen gepaard met de tekst “Ancient
+        <title-and-description
+          title="Encyclopedia Vulgaris"
+          description="Een verzameling van 406 random geselecteerde beelden samen gepaard met de tekst “Ancient
           Classics for English Readers” van William Lucas Collins, gebundeld tot een boek. Hiervoor
           ging ik terug naar de oorsprong van de foto’s en zocht zo naar een onderlinge link, die ik
-          vervolgens categoriseerde. <br /><i class="text-sm">250 x 200mm 2020</i>
-        </span>
+          vervolgens categoriseerde."
+          info="250 x 200mm 2020"
+        />
         <div class="grid grid-cols-2 gap-4">
           <div class="flex flex-col gap-4">
             <img src="/1-4.JPG" alt="Portfolio image 1-4" />
@@ -43,13 +44,14 @@
       <div class="col-span-1 flex flex-col gap-4">
         <img src="/2-7.jpeg" alt="Portfolio image 2-7" />
         <div class="h-1/3 flex flex-col gap-4">
-          <span class="font-black text-3xl">Encyclopedia Vulgaris</span>
-          <span class="text-gray-700 w-10/12">
-            Een verzameling van 406 random geselecteerde beelden samen gepaard met de tekst “Ancient
-            Classics for English Readers” van William Lucas Collins, gebundeld tot een boek.
-            Hiervoor ging ik terug naar de oorsprong van de foto’s en zocht zo naar een onderlinge
-            link, die ik vervolgens categoriseerde. <br /><i class="text-sm">250 x 200mm 2020</i>
-          </span>
+          <title-and-description
+            title="Font"
+            description="Het font Casco is gebaseerd op een specemin uit het boek “The fiftheenth book of
+            specemins” van de Cincinnati Type Foundry. Op dit font maakte ik twee varianten: Snippet
+            en Pieksel. Snippet is een font opgebouwd uit het binnenwit van Casco en pieksel doet
+            onderzoek naar de leesbaarheid van een font."
+            info="170 x 150mm 2021"
+          />
         </div>
         <img src="/2-8.jpeg" alt="Portfolio image 2-8" />
       </div>
@@ -58,13 +60,19 @@
     <div class="grid grid-cols-2 gap-4">
       <div class="col-span-1 flex flex-col gap-4 justify-between">
         <div class="flex flex-col gap-4">
-          <span class="font-black text-3xl">Encyclopedia Vulgaris</span>
-          <span class="text-gray-700 w-10/12">
-            Een verzameling van 406 random geselecteerde beelden samen gepaard met de tekst “Ancient
-            Classics for English Readers” van William Lucas Collins, gebundeld tot een boek.
-            Hiervoor ging ik terug naar de oorsprong van de foto’s en zocht zo naar een onderlinge
-            link, die ik vervolgens categoriseerde. <br /><i class="text-sm">250 x 200mm 2020</i>
-          </span>
+          <title-and-description
+            title="About publications"
+            description="Essays en interviews over grafisch ontwerp uit het tijdschrift “Eye Magazine”. 14 essays
+            en 6 interviews gebundeld tot een boek dat ontdaan zijn van hun originele lay-out. De
+            nieuwe lay-out is gebaseerd op het boek “Kroniek van de 20ste eeuw” van Elsevier. Omdat
+            ik verder wou gaan dan de lay-out keek ik naar het boek op zich, als een object. Het
+            boek is erg dik en dat wou ik letterlijk overnemen in mijn ontwerp. Ik scande de diktes
+            van het boek in en plaatse die scans op de zijkant van elke pagina in mijn publicatie,
+            om zo een illusie te creëren. Ook de kolommen binnen in zijn dynamisch, hoe dikker het
+            boek wordt, hoe smaller de kolommen dat neemt op hun beurt toe en neemt naarmate het
+            boek verdort weer af. Elke tekst heeft ook een vaste plaats binnen in de publicatie."
+            info="290 x 230mm 2021"
+          />
         </div>
         <div class="grid grid-cols-2 gap-4">
           <div class="col-span-1 flex flex-col gap-4">
@@ -99,19 +107,179 @@
       <div class="col-span-1 flex flex-col gap-4 justify-between">
         <img src="/4-1.jpg" alt="Portfolio image 4-2" />
         <div class="flex flex-col gap-4">
-          <span class="font-black text-3xl">Vlag Sandy Island</span>
-          <span class="text-gray-700 w-10/12">
-            Een vlag ontworpen voor een spookeiland genaamd Sandy Island. Het eiland is op
-            verschillende satellietkaarten weergegeven maar in het echt nergens te vinden is. Er
-            zijn enkele theorieën zoals dat het een geheime basis zou zijn van het leger. Als
-            ontwerper zie ik dit als een eiland dat werd gecamoufleerd. De vlag werd daarom
-            ontworpen naar razzle dazzle camouflage dat op schepen werd gebruikt tijdens WOI.
-            <br /><i class="text-sm">1000 x 700mm 2019</i>
-          </span>
+          <title-and-description
+            title="Vlag Sandy Island"
+            description="Een vlag ontworpen voor een spookeiland genaamd Sandy Island. Het eiland is op
+            verschillende kaarten weergegeven maar in het echt nergens te vinden is. Er zijn enkele
+            theorieën zoals dat het een geheime basis zou zijn van het leger. Als ontwerper zie ik
+            dit als een eiland dat werd gecamoufleerd. De vlag werd daarom ontworpen naar razzle
+            dazzle camouflage dat op schepen werd gebruikt tijdens WOI. Razzle dazzle speelt in op
+            het waarnemen. De illusie over de grootte, naar welke kant het waait en het inblenden in
+            de achtergrond spelen een grote rol. Ik deed onderzoek naar de plooien van de vlag en de
+            lucht om zo het oog te kunnen bedriegen. Zwart staat voor de nacht met een gradient naar
+            grijs, wit voor wolken en blauw voor blauwe lucht. De print speelt met de waarneming en
+            zorgt voor een illusie op het formaat en windrichting o.w.v. de plooien die worden
+            vervormd."
+            info="1000 x 700mm 2019"
+          />
         </div>
       </div>
     </div>
     <!-- 5 -->
+    <div class="grid grid-cols-4 gap-4">
+      <div class="col-span-1 flex flex-col gap-4">
+        <img src="/5-1.jpg" alt="Portfolio image 5-1" class="h-full w-full object-cover" />
+      </div>
+      <div class="col-span-1 flex flex-col gap-4">
+        <img src="/5-2.jpg" alt="Portfolio image 5-3" class="h-full w-full object-cover" />
+      </div>
+      <div class="col-span-1 flex flex-col gap-4">
+        <img src="/5-4.jpg" alt="Portfolio image 5-3" class="h-full w-full object-cover" />
+      </div>
+      <div class="col-span-1 flex flex-col gap-4">
+        <title-and-description
+          title="Minima Docta"
+          description="Poster reeks voor MINIMA DOCTA. Een platform voor maatschappelijke discussie en
+          documentaire cinema o.l.v. Jeroen Laureyns en Wim Lambrecht met de steun van LUCA School
+          of Arts, Campus SintLucas, Gent. De posters werden vormgegeven aan de hand van kranten
+          artikels. De laatste poster werd online geplaatst o.w.v. corona en werd dus vormgegeven
+          met online artikels."
+          info="1220 x 840mm 2020"
+        />
+      </div>
+    </div>
+
+    <!-- 6 -->
+    <div class="flex flex-col gap-4">
+      <div class="grid grid-cols-7 gap-4">
+        <div class="col-span-2 flex flex-col gap-4">
+          <img src="/6-1.png" alt="Portfolio image 6-1" class="h-full w-full object-cover" />
+        </div>
+        <div class="col-span-2 flex flex-col gap-4">
+          <img src="/6-2.png" alt="Portfolio image 6-2" class="h-full w-full object-cover" />
+        </div>
+        <div class="col-span-3 flex flex-col gap-4"></div>
+      </div>
+      <div class="grid grid-cols-7 gap-4">
+        <div class="col-span-3 flex flex-col gap-4">
+          <title-and-description
+            title="Cinéma des Refusés"
+            description="Externe opdracht voor de Filmavonden onder leiding van Isolde Vanhee en Wim Lambrecht.
+            In 2022 brengen de Filmavonden onder de vlag ‘Cinéma des Refusés’ filmmakers samen die
+            esthetische en/of ideologische normen aan hun laars lapten of ze net propageerden. De
+            posters zijn ontworpen samen met enkele medestudenten."
+            info="1220 x 840mm 2022"
+          />
+        </div>
+
+        <div class="col-span-2 flex flex-col gap-4">
+          <img src="/6-3.png" alt="Portfolio image 6-3" class="h-full w-full object-cover" />
+        </div>
+        <div class="col-span-2 flex flex-col gap-4">
+          <img src="/6-4.png" alt="Portfolio image 6-4" class="h-full w-full object-cover" />
+        </div>
+      </div>
+    </div>
+
+    <!-- 7 -->
+    <div class="grid grid-cols-2 gap-20">
+      <div class="col-span-1 flex flex-col">
+        <img src="/7-1.jpg" alt="Portfolio image 7-1" />
+      </div>
+      <div class="col-span-1 flex justify-end flex-col gap-4 mb-4">
+        <title-and-description
+          title="Poster"
+          description="Krantenkop vormgeven tot een poster."
+          info="1188 x 840mm 2018"
+        />
+      </div>
+    </div>
+
+    <!-- 8 -->
+    <div class="grid grid-cols-5 gap-4">
+      <div class="col-span-2 flex flex-col gap-4">
+        <img src="/8-1.jpg" alt="Portfolio image 8-1" />
+        <div class="grid grid-cols-4">
+          <img
+            src="/8-5.jpg"
+            alt="Portfolio image 8-5"
+            class="w-full h-40 object-cover object-top"
+          />
+          <img
+            src="/8-6.jpg"
+            alt="Portfolio image 8-6"
+            class="w-full h-40 object-cover object-top"
+          />
+          <img
+            src="/8-7.jpg"
+            alt="Portfolio image 8-7"
+            class="w-full h-40 object-cover object-top"
+          />
+          <img
+            src="/8-8.jpg"
+            alt="Portfolio image 8-8"
+            class="w-full h-40 object-cover object-top"
+          />
+        </div>
+      </div>
+      <div class="col-span-1 flex flex-col gap-4 justify-center mb-5">
+        <img src="/8-2.jpg" alt="Portfolio image 8-3" />
+        <img src="/8-3.jpg" alt="Portfolio image 8-4" />
+        <img src="/8-4.jpg" alt="Portfolio image 8-5" />
+      </div>
+      <div class="col-span-2 flex flex-col gap-4 justify-center">
+        <title-and-description
+          title="I’ve seen that face before"
+          description="Publicatie dat werd opgedeeld in twee delen. Het begon met een selfie met filter opdracht.
+          Mijn selfies komen voort uit mijn look-alike, soms krijg ik de opmerking dat ik op de
+          actrice Gwyneth Paltrow dus dat nam ik heel letterlijk door mijn gezicht op haar lichaam
+          en als het ware haar leven te photoshoppen. Het tweede deel was volledig vrij met als
+          enige quotering dat het een publicatie moest zijn met selfies van de studenten van 3BA
+          grafisch ontwerp 2020-2021. De cover is ontstaan door een zoektocht naar een nieuwe vorm
+          van het groepsportret. Daaruit vloeide de publicatie verder waarin ik de klas opdeelde
+          door kiesvragen en zo telkens nieuwe groepsportretten creëerde."
+          info="297 x 210 mm 2021"
+        />
+      </div>
+    </div>
+    <!-- 9 -->
+    <div class="grid grid-cols-7 gap-4">
+      <div class="col-span-3 flex flex-col gap-4">
+        <img src="/9-1.jpg" alt="Portfolio image 9-1" class="h-full w-full object-cover" />
+      </div>
+      <div class="col-span-1 flex flex-col gap-4">
+        <title-and-description
+          title="Cover"
+          description="Boekcover redesign van de gids “Birds of Britain and Europe” van The Definitive
+          Photographic Field Guide. De “and Europe” in de titel deed me denken aan de Brexit. Voor
+          dit ontwerp besloot ik om Groot-Britanië af te zonderen van Europa. Ook de vogels zijn er
+          opgesloten en kunnen er niet weg."
+          info="190 x 145mm 2018"
+          :capped-width="false"
+        />
+      </div>
+      <div class="col-span-3 flex flex-col gap-4">
+        <img src="/9-2.jpg" alt="Portfolio image 9-2" class="h-full w-full object-cover" />
+      </div>
+    </div>
+
+    <!-- 10 -->
+    <div class="grid grid-cols-5 gap-4">
+      <div class="col-span-2 flex flex-col gap-4">
+        <img src="/10-1.jpg" alt="Portfolio image 10-1" />
+        <img src="/10-2.jpg" alt="Portfolio image 10-2" />
+      </div>
+      <div class="col-span-2 flex flex-col gap-4">
+        <img src="/10-3.jpg" alt="Portfolio image 10-3" />
+        <img src="/10-4.jpg" alt="Portfolio image 10-4" />
+      </div>
+      <div class="col-span-1 flex flex-col gap-4">
+        <img src="/10-5.jpg" alt="Portfolio image 10-5" class="h-[340px] w-full object-cover" />
+        <img src="/10-6.jpeg" alt="Portfolio image 10-6" class="h-[340px] w-full object-cover" />
+      </div>
+    </div>
   </div>
 </template>
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import TitleAndDescription from '@/components/global/TitleAndDescription.vue'
+</script>
