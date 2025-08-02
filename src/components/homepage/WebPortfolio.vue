@@ -268,6 +268,17 @@
       <div class="col-span-2 flex flex-col gap-4">
         <img src="/10-1.jpg" alt="Portfolio image 10-1" />
         <img src="/10-2.jpg" alt="Portfolio image 10-2" />
+        <title-and-description
+          title="O.M.W."
+          description="Een web portfolio dat de nadruk legt op de beelden en het werk. Het is een
+        one-page websO.M.W. is een vrije publicatie waarin ik besloot om een dag in
+mijn leven te fotograferen tijdens een migraine aanval. O.M.W.
+staat voor on my way het is de weg naar school en terug die ik
+vastlegde waarin telkens links het normale beeld te zien is en
+rechts een visuele representatie van een migraine aanval."
+          info="250 x 180mm
+2021"
+        />
       </div>
       <div class="col-span-2 flex flex-col gap-4">
         <img src="/10-3.jpg" alt="Portfolio image 10-3" />
@@ -276,6 +287,111 @@
       <div class="col-span-1 flex flex-col gap-4">
         <img src="/10-5.jpg" alt="Portfolio image 10-5" class="h-[340px] w-full object-cover" />
         <img src="/10-6.jpeg" alt="Portfolio image 10-6" class="h-[340px] w-full object-cover" />
+      </div>
+    </div>
+    <!-- 11 -->
+    <div class="grid grid-cols-4 gap-4">
+      <div class="col-span-1 flex flex-col gap-4">
+        <img src="/11-1.jpeg" alt="Portfolio image 11-1" class="mb-20" />
+        <title-and-description
+          title="Scriptie: VIER"
+          description="Mijn scriptie “VIER” hangt samen met
+mijn masterproject. Hierin deed ik onderzoek naar de vierdedimensie, ruimte
+en tijd in verhouding met kunst en mijn
+proces. De vormgeving is afgestemd
+op mijn masterproject waarin ik een
+gelaagdheid creëerde door 60gr A4
+vellen te plooien telkens wanneer er
+een beeld is. "
+          info="148 x 105mm
+2022"
+        />
+      </div>
+      <div class="col-span-1">
+        <div class="h-[30rem]"></div>
+        <img src="/11-2.jpeg" alt="Portfolio image 11-2" />
+      </div>
+      <div class="col-span-1">
+        <img src="/11-3.jpeg" alt="Portfolio image 11-3" />
+      </div>
+      <div class="col-span-1">
+        <div class="h-[30rem]"></div>
+        <img src="/11-4.jpeg" alt="Portfolio image 11-4" />
+      </div>
+    </div>
+    <!-- 12 -->
+    <div class="flex flex-col gap-10">
+      <div class="grid grid-cols-4 gap-20">
+        <div class="col-span-1"><img src="/12-1.png" alt="Portfolio image 12-1" /></div>
+        <div class="col-span-1"><img src="/12-2.png" alt="Portfolio image 12-2" /></div>
+        <div class="col-span-1"><img src="/12-3.png" alt="Portfolio image 12-3" /></div>
+        <div class="col-span-1"><img src="/12-4.png" alt="Portfolio image 12-4" /></div>
+      </div>
+      <div class="grid grid-cols-5 gap-10">
+        <div class="col-span-1">
+          <img src="/12-5.JPG" alt="Portfolio image 12-5" class="h-[360px] w-full object-cover" />
+        </div>
+        <div class="col-span-1">
+          <img src="/12-6.JPG" alt="Portfolio image 12-6" class="h-[360px] w-full object-cover" />
+        </div>
+        <div class="col-span-1">
+          <img src="/12-7.JPG" alt="Portfolio image 12-7" class="h-[360px] w-full object-cover" />
+        </div>
+        <div class="col-span-1">
+          <img src="/12-8.jpg" alt="Portfolio image 12-8" class="h-[360px] w-full object-cover" />
+        </div>
+        <div class="col-span-1">
+          <img src="/12-9.PNG" alt="Portfolio image 12-9" class="h-[360px] w-full object-cover" />
+        </div>
+      </div>
+      <div class="flex flex-col gap-4 w-1/2">
+        <title-and-description
+          title="Masterproject"
+          description="In mijn masterproef deed ik onderzoek naar de vierde dimensie, waarin ik mijn
+herinneringen inzet om van tijd (beweging) en ruimte 1 geheel te maken. Dit
+doe ik aan de hand van tekeningen die ik maakte vanuit mijn herinneringen en
+vervolgens blendde tot 1 geheel. Ooit was ik een deel van een viergeslacht en besloot de verschillende ruimtes te tekenen waarin we leefden als een ode aan mijn
+drie vrouwelijke voorgangers. Het viergeslacht gebruik ik als tool om die nieuwe
+dimensie te betreden."
+          info="297 x 210mm
+2022"
+        />
+      </div>
+    </div>
+    <!-- 13 -->
+    <div class="grid grid-cols-2 gap-40">
+      <div class="col-span-1">
+        <img src="/14-1.jpg" alt="Portfolio image 14-1" />
+      </div>
+      <div class="col-span-1 flex flex-col relative">
+        <title-and-description
+          title="Sample"
+          description="Voor deze opdracht werd ons gevraagd om bestaande
+logo’s te sampelen tot een nieuw logo dat persoonlijk is
+aan de ontwerper."
+          info="2019"
+        />
+        <img
+          src="/14-2.png"
+          alt="Portfolio image 14-2"
+          class="w-1/3 absolute top-1/2 -translate-y-1/2"
+        />
+      </div>
+    </div>
+    <!-- 14 -->
+    <div class="grid grid-cols-2">
+      <div class="col-span-1 flex flex-col gap-4">
+        <img src="/15-1.jpg" alt="Portfolio image 15-1" />
+        <title-and-description
+          title="LP-hoes"
+          description="Ontwerp van een LP-hoes."
+          info="315 x 315 mm
+2018"
+        />
+      </div>
+      <div class="col-span-1 flex flex-col gap-4">
+        <div class="h-96"></div>
+        <img src="/15-2.jpg" alt="Portfolio image 15-2" />
       </div>
     </div>
   </div>
